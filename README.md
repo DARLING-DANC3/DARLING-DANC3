@@ -8,4 +8,4 @@
 </p>
 
 ![sua-sua-alnst](https://github.com/user-attachments/assets/97d21352-dd74-44ad-9fce-2fe739f21eef)
-<img width="500" height="500" alt="5ae3fa23f1a10bf0d3808e1738e5dacb-removebg-preview(1)" src="https://github.com/user-attachments/assets/36de6e06-b3f0-4c2f-8d99-a1debb1f57a8" />
+<img width="400" height="500" alt="5ae3fa23f1a10bf0d3808e1738e5dacb-removebg-preview(1)" src="https://github.com/user-attachments/assets/36de6e06-b3f0-4c2f-8d99-a1debb1f57a8" />
